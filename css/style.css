@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Anton&family=Oleo+Script+Swash+Caps&family=Smooch&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+   
+
+}
+.main{
+    width: 100%;
+    height: 1720px;
+    background-image:url(../img/bg\ remastured.jpeg);
+    background-size: cover;
+    
+}
+.navbar-light .navbar-brand{
+    color: white;
+}
+.navbar-light .navbar-brand:hover {
+    color: rgb(255 255 255 / 90%);
+}
+img{
+    width: 350px;
+    height: 578px;
+}
+.hd{
+    font-family: 'Abril Fatface', cursive;
+    font-size: xx-large;
+    margin-left: 87px
+}
+.header{
+    height: 150px;
+}
+h1{
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+.tvm{
+
+    font-family: 'Anton', sans-serif;
+}
+.pa{
+    color: white;
+    margin-top: 2%;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: large;
+}
+.food{
+    height: 200px;
+    width: 100%;
+}
+.card{
+    margin-left: 2px;
+    height: 550px;
+}
+.che{
+    width: 100%;
+    height: 331px;
+}
+.head{
+    text-align: center;
+}
+h5{
+     text-align:center ;
+     margin-top: 115px;
+}
+.slideshow{
+    width: 97%;
+    height: 384px;
+    margin-left: 15px;
+    margin-top: 26px;
+    box-shadow: 2px 4px 30px;
+    margin-bottom: 43px;
+}
+
+.slideshow img{
+    height: 384px;
+}
+footer{
+    color: white;
+    text-align: justify;
+}
+.bg{
+    color: rgb(255, 255, 255);
+}
+
+
+
